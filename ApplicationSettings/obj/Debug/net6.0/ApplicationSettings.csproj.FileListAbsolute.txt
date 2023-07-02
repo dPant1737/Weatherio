@@ -1,0 +1,12 @@
+C:\Users\205pdx01\Desktop\Test_Folder\ApplicationSettings\bin\Debug\net6.0\ApplicationSettings.deps.json
+C:\Users\205pdx01\Desktop\Test_Folder\ApplicationSettings\bin\Debug\net6.0\ApplicationSettings.dll
+C:\Users\205pdx01\Desktop\Test_Folder\ApplicationSettings\bin\Debug\net6.0\ApplicationSettings.pdb
+C:\Users\205pdx01\Desktop\Test_Folder\ApplicationSettings\obj\Debug\net6.0\ApplicationSettings.csproj.AssemblyReference.cache
+C:\Users\205pdx01\Desktop\Test_Folder\ApplicationSettings\obj\Debug\net6.0\ApplicationSettings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\205pdx01\Desktop\Test_Folder\ApplicationSettings\obj\Debug\net6.0\ApplicationSettings.AssemblyInfoInputs.cache
+C:\Users\205pdx01\Desktop\Test_Folder\ApplicationSettings\obj\Debug\net6.0\ApplicationSettings.AssemblyInfo.cs
+C:\Users\205pdx01\Desktop\Test_Folder\ApplicationSettings\obj\Debug\net6.0\ApplicationSettings.csproj.CoreCompileInputs.cache
+C:\Users\205pdx01\Desktop\Test_Folder\ApplicationSettings\obj\Debug\net6.0\ApplicationSettings.dll
+C:\Users\205pdx01\Desktop\Test_Folder\ApplicationSettings\obj\Debug\net6.0\refint\ApplicationSettings.dll
+C:\Users\205pdx01\Desktop\Test_Folder\ApplicationSettings\obj\Debug\net6.0\ApplicationSettings.pdb
+C:\Users\205pdx01\Desktop\Test_Folder\ApplicationSettings\obj\Debug\net6.0\ref\ApplicationSettings.dll

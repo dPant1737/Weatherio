@@ -1,0 +1,17 @@
+C:\Users\205pdx01\Desktop\Test_Folder\WeatherLibrary\bin\Debug\net6.0\WeatherLibrary.deps.json
+C:\Users\205pdx01\Desktop\Test_Folder\WeatherLibrary\bin\Debug\net6.0\WeatherLibrary.dll
+C:\Users\205pdx01\Desktop\Test_Folder\WeatherLibrary\bin\Debug\net6.0\WeatherLibrary.pdb
+C:\Users\205pdx01\Desktop\Test_Folder\WeatherLibrary\bin\Debug\net6.0\ApplicationSettings.dll
+C:\Users\205pdx01\Desktop\Test_Folder\WeatherLibrary\bin\Debug\net6.0\PublicModels.dll
+C:\Users\205pdx01\Desktop\Test_Folder\WeatherLibrary\bin\Debug\net6.0\ApplicationSettings.pdb
+C:\Users\205pdx01\Desktop\Test_Folder\WeatherLibrary\bin\Debug\net6.0\PublicModels.pdb
+C:\Users\205pdx01\Desktop\Test_Folder\WeatherLibrary\obj\Debug\net6.0\WeatherLibrary.csproj.AssemblyReference.cache
+C:\Users\205pdx01\Desktop\Test_Folder\WeatherLibrary\obj\Debug\net6.0\WeatherLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\205pdx01\Desktop\Test_Folder\WeatherLibrary\obj\Debug\net6.0\WeatherLibrary.AssemblyInfoInputs.cache
+C:\Users\205pdx01\Desktop\Test_Folder\WeatherLibrary\obj\Debug\net6.0\WeatherLibrary.AssemblyInfo.cs
+C:\Users\205pdx01\Desktop\Test_Folder\WeatherLibrary\obj\Debug\net6.0\WeatherLibrary.csproj.CoreCompileInputs.cache
+C:\Users\205pdx01\Desktop\Test_Folder\WeatherLibrary\obj\Debug\net6.0\WeatherLibrary.csproj.CopyComplete
+C:\Users\205pdx01\Desktop\Test_Folder\WeatherLibrary\obj\Debug\net6.0\WeatherLibrary.dll
+C:\Users\205pdx01\Desktop\Test_Folder\WeatherLibrary\obj\Debug\net6.0\refint\WeatherLibrary.dll
+C:\Users\205pdx01\Desktop\Test_Folder\WeatherLibrary\obj\Debug\net6.0\WeatherLibrary.pdb
+C:\Users\205pdx01\Desktop\Test_Folder\WeatherLibrary\obj\Debug\net6.0\ref\WeatherLibrary.dll
