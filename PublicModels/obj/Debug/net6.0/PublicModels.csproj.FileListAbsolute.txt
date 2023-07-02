@@ -1,0 +1,12 @@
+C:\Users\205pdx01\Desktop\Test_Folder\PublicModels\bin\Debug\net6.0\PublicModels.deps.json
+C:\Users\205pdx01\Desktop\Test_Folder\PublicModels\bin\Debug\net6.0\PublicModels.dll
+C:\Users\205pdx01\Desktop\Test_Folder\PublicModels\bin\Debug\net6.0\PublicModels.pdb
+C:\Users\205pdx01\Desktop\Test_Folder\PublicModels\obj\Debug\net6.0\PublicModels.csproj.AssemblyReference.cache
+C:\Users\205pdx01\Desktop\Test_Folder\PublicModels\obj\Debug\net6.0\PublicModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\205pdx01\Desktop\Test_Folder\PublicModels\obj\Debug\net6.0\PublicModels.AssemblyInfoInputs.cache
+C:\Users\205pdx01\Desktop\Test_Folder\PublicModels\obj\Debug\net6.0\PublicModels.AssemblyInfo.cs
+C:\Users\205pdx01\Desktop\Test_Folder\PublicModels\obj\Debug\net6.0\PublicModels.csproj.CoreCompileInputs.cache
+C:\Users\205pdx01\Desktop\Test_Folder\PublicModels\obj\Debug\net6.0\PublicModels.dll
+C:\Users\205pdx01\Desktop\Test_Folder\PublicModels\obj\Debug\net6.0\refint\PublicModels.dll
+C:\Users\205pdx01\Desktop\Test_Folder\PublicModels\obj\Debug\net6.0\PublicModels.pdb
+C:\Users\205pdx01\Desktop\Test_Folder\PublicModels\obj\Debug\net6.0\ref\PublicModels.dll
